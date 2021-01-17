@@ -28,10 +28,6 @@
 .pub/
 build/*
 
-android/UnityExport/
-ios/UnityExport/
-unity/DemoApp/.vs
-
 #example/
 unity/ARDemoApp/Builds/*
 unity/ARDemoApp/Library/*
