@@ -111,6 +111,7 @@
     <None Include="Assets\JsonDotNet\link.xml" />
     <None Include="Assets\Shaders\FeatheredPlaneShader.shader" />
     <None Include="Assets\link.xml" />
+    <None Include="Assets\StreamingAssets\HiddenARCore\9270fbb3-dac2-4b7a-ad1e-35b555085b9d.imgdb-imglist.txt" />
     <Reference Include="Unity.XR.ARKit.FaceTracking.Editor">
       <HintPath>C:/Users/vassilis/flutter-unity-arkit-demo/unity/ARDemoApp/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.Editor.dll</HintPath>
     </Reference>
